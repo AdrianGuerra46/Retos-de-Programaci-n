@@ -1,2 +1,2 @@
-# Retos-de-Programaci-n
-Realizaré algunas pruebas de programación, basados principalmente en la pagina web "retosdeprogramación.com" hecha por mouredev. 
+# Retos de Programación
+Realizaré algunas pruebas de programación, basados principalmente en la pagina web "retosdeprogramación.com" hecha por mouredev. Los directorios en los que resolveré los retos estarán enumerados no por dificultad sino por el orden cornológico en el que los vaya resolviendo. Inicialmente los resolveré en Python pero puede que conforme avance el tiempo los vuelva a resolver en otros lenguajes, de ser así, estarán los diferentes ficheros de cada lenguaje dentro de los directorios de cada reto. 
