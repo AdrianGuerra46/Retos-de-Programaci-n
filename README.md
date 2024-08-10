@@ -13,7 +13,7 @@ Este repositorio contiene una colección de retos y ejercicios de programación 
 
 ## Estructura del Repositorio
 
-- Cada reto tendrá su carpeta propia. En cada carpeta habrá un fichero llamado "ejercicio" en el que se expondrá la dinamica del reto/ejercicio, y tambien estarán los ficheros de los diferentes lenguajes en los que resuelva dicho ejercicio.
+- Cada reto tendrá su carpeta propia. En cada carpeta habrá un fichero llamado "ejercicio" en el que se expondrá la dinamica del reto/ejercicio, y tambien estarán los ficheros de los diferentes lenguajes en los que resuelva dicho ejercicio. En caso de que no se encuentre el fichero "ejercicio" es porque el enunciado estará dentro del mismo código en forma de comentario. 
 
 ## Contribuciones
 
